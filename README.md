@@ -1,3 +1,9 @@
+# loadroad-connectors
+
+[![GitHub](https://img.shields.io/badge/GitHub-BlackRoad-OS-purple?style=for-the-badge&logo=github)](https://github.com/BlackRoad-OS/loadroad-connectors)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://github.com/BlackRoad-OS/loadroad-connectors)
+[![BlackRoad](https://img.shields.io/badge/BlackRoad-OS-black?style=for-the-badge)](https://blackroad.io)
+
 # Loadroad Connectors
 
 🔌 LoadRoad - Universal enterprise connector. Integrate legacy systems (SAP, Workday, Salesforce) with modern APIs. /month.
